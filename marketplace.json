@@ -1,0 +1,11 @@
+{
+  "name": "my-marketplace",
+  "description": "My personal ZCode plugin marketplace",
+  "plugins": [
+    {
+      "name": "hello-plugin",
+      "description": "A simple hello-world plugin to demonstrate the marketplace",
+      "source": "plugins/hello-plugin"
+    }
+  ]
+}

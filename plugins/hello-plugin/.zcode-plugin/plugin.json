@@ -1,0 +1,6 @@
+{
+  "name": "hello-plugin",
+  "version": "0.1.0",
+  "description": "A hello-world plugin that provides a greeting skill.",
+  "skills": "skills"
+}
